@@ -8,7 +8,7 @@ export class Feature2 {
 		// do more awesome stuff;
 	}
 
-	private introducingBug(): void {
-		// not to shabby code, small feature
+	private thisIsNotABugAnymore(): void {
+		// happy accidents :), small feature
 	}
 }
