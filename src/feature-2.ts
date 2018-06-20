@@ -5,5 +5,6 @@ export class Feature2 {
 
 	private somethingAwesome(): void {
 		// do something awesome;
+		// do more awesome stuff;
 	}
 }
