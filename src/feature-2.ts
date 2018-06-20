@@ -7,4 +7,8 @@ export class Feature2 {
 		// do something awesome;
 		// do more awesome stuff;
 	}
+
+	private introducingBug(): void {
+		// not to shabby code, small feature
+	}
 }
