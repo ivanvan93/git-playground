@@ -11,4 +11,8 @@ export class Feature2 {
 	private introducingBug(): void {
 		// not to shabby code, small feature
 	}
+
+	private goodCode(): void {
+		// good feature here :)
+	}
 }
