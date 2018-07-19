@@ -19,5 +19,6 @@ export class Feature2 {
 
 	private bigFeature2(): void {
 		// skeleton first commit
+		// developer 1: completed story 1
 	}
 }
