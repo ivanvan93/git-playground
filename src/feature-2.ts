@@ -14,6 +14,6 @@ export class Feature2 {
 	}
 
 	private goodCode(): void {
-		// good feature here :)
+		// this feature was buggy, fixed this
 	}
 }
