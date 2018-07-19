@@ -23,6 +23,7 @@ export class Feature2 {
         // developer 2: story-2/part-1
         // developer 2: story-2/part-2
         // developer 2: story-2/part-3
+        // developer 2: story-2/complete
 		// developer 1: completed story 3
 	}
 }
