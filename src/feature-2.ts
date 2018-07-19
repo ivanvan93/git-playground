@@ -10,6 +10,7 @@ export class Feature2 {
 
 	private thisIsNotABugAnymore(): void {
 		// happy accidents :), small feature
+		// enhanced this function
 	}
 
 	private goodCode(): void {
