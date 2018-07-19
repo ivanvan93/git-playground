@@ -16,4 +16,8 @@ export class Feature2 {
 	private goodCode(): void {
 		// this feature was buggy, fixed this
 	}
+
+	private bigFeature2(): void {
+		// skeleton first commit
+	}
 }
